@@ -1,0 +1,56 @@
+body{
+	background-color:#041C32;
+}
+ h1
+ {
+ 	background-color:lightyellow;
+ 	color: honeydew;
+ }
+
+ ol
+ {
+ 	font-family: Arial;
+    list-style-type:ethiopic-abegede;
+    color: palevioletred;
+ }
+
+ ul
+ {
+ 	font-family: Arial;
+    
+    color: darkolivegreen;
+ }
+
+
+
+#at
+{
+	background-color:#064663;
+	border: 1px solid whitesmoke;
+}
+
+h2{
+    color:cadetblue;
+}
+a{
+    padding: 10px;
+	color:azure;
+	padding: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	text-align:center;
+	background-color:yellow;
+}
+
+a:hover
+{
+	background-color: blue;
+    color: violet;
+}
+
+dt{
+    color:whitesmoke
+}
+dd{
+    color: seashell;
+}
